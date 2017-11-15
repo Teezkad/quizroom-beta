@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel = "stylesheet" href= "layout.css"/>
+<script type="text/javascript" src="scripts/validate.js"></script>
+<script>
+function checkPasswordMatch(e){
+  var password1 = document.getElementById("password");
+  var password2 = document.getElementById("password-check");
+
+  function makeRed(inputDiv){
+  	inputDiv.style.borderColor="#AA0000";
+  }
+
+  if(password1.value != password2.value){
+e.preventDefault();
+
+makeRed(password1);
+makeRed(password2);
+
+  }
+}
+</script>
+<!-- Password checking script here!! -->
+
+</head>
+
+<body>
+
+<form method="post" action="newuser.php" id="mainForm" enctype="multipart/form-data">
+  First Name:<br>
+  <input type="text" name="firstname" id="firstname" class="required">
+  <br>
+  Last Name:<br>
+  <input type="text" name="lastname" id="lastname" class="required">
+  <br>
+  Username:<br>
+  <input type="text" name="username" id="username" class="required">
+  <br>
+  UserImage: <br>
+   <input type="file" name="userImage" id="userImage" class= "required" accept="image/*">
+   <br />
+  email:<br>
+  <input type="text" name="email" id="email" class="required">
+  <br>
+  Password:<br>
+  <input type="password" name="password" id="password" class="required">
+  <br>
+  Re-enter Password:<br>
+  <input type="password" name="password-check" id="password-check" class="required">
+  <br><br>
+  <input type="submit" value="Create New User">
+</form>
+</body>
