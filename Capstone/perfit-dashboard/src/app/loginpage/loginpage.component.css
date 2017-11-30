@@ -1,0 +1,17 @@
+div.center {
+  text-align: center;
+}
+
+header {
+	text-align: center;
+	font-size: 30px;
+}
+.cont{
+	background-color: white;
+	margin-top: 10em;
+	margin-bottom:20em;
+}
+
+.error{
+	color: red;
+}

@@ -1,0 +1,25 @@
+<div class="jumbotron">
+  <header class="jumbotron">Perfit Dental</header>
+</div>
+
+<div class="cont">
+  <div class="center">
+
+    <form (submit)="loginUser($event)">
+      <img src="home.png">
+      <div class="input">
+        <label>Username</label><br/><br/>
+        <input type="text"><br/><br/>
+      </div>
+      <div class="input">
+        <label>Password</label><br/><br/>
+        <input type="password"><br/><br/>
+      </div>
+      <div ng-if="errorMessage2" class="error">{{ errorMessage2 }}</div><br>
+      <div ng-if="errorMessage" class="error">{{ errorMessage }}</div><br>
+      <div class="input">
+        <input type="submit" value="login">
+      </div>
+    </form>
+  </div>
+</div>
