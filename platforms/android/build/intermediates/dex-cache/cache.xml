@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\9a1f53c4a34d30398cab702e913d602ade43571c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67070b6d74d76c40032b857e9fcf25b196fd07f5">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2e7cb7ab292e6b8357cf596b849cf801e45691cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\9cd3e3968cb658b8503f4f377390ef680dfd6313\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_1f4d4ccf11f3ab18b126fdd7228f89f209d33b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\d8903bb17788934f63f146ccf3e0c3d3f8a2a667\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_0a739ab64314edec9d7ae1137259b22e0445e5ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\b7ae9cd93fa7fe29b770b9e9e556d8d2e12f01af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_dce0d34e12bb1d0560368a0b0407eab0f885f760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\gson-2.8.2_fe4f9419eb59600990147f5e8cc3c72fe8cd319c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\6f67fcca58fb5393f422c95456abee25583f5cea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a973d2e002f236d63e4b0b3bb95454b2ed4dc790">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_4d2cf6ead36cc49f6e634d72b142f345190944f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\09daad607683e1e01a57811c91db6addf860ad0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_107b2516de318d99bee1eea74d6ed7dd3d1503dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\b91cb87db3f70a6e00867b32c40c0db24bb5bd64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_abbdd9de58117bb712c3a981d2fec51350e5c89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\7cc6ba3eea1b6597935059d1cf5653d7b6c1315a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_7026e6e5a2b1d71176afcb29321c63cc9afe09a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\aa59a8b8ce1edcbe6c4dab94d0275065b7246dba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_a6ecea6f430dba750255a727cb6332536f9d8879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\a7e1cd321ae33706031148cf114ee31db00bc075\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_03b4ada0f41222c0c134fe5612d587773b2b019c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\30ce740fadd41bf8af9bbdd46dc050ca927b46f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23e24cb11d199bb64e56968563bb6ea219204cec">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2d2c332abc9cc4b86d01e1bcd01cd1fb8281e0fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\e48413dbb1ae8a9338733143e16eb6a7f74ce604\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_999d20ac9e9d4b25eee168d4c354b75fa000000e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\e9ab68676ed91a9f5e794beaee302815a64a9835\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_eed0f0a5f8bd18a7c6ec53d96a4a6466f12170b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\okio-1.6.0_3ea7d73f3a7462041e7891eacf8b1db90db8d8dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\139c8c1dcdb648ee7cf16e42e5cd21ee0eb6138d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31ecd0832f76d83defcff7f8b395008bf3b153bd">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_4bc1e9cc1351c0a5d4f467768cb30a631b346c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\48b59db303e052125a3dd31742e1ad65a699a26e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_6ea0f120a03f69c111a518ed9ab7c120e9542010.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\b34106b7f5ce50c89a92cea2e0b9f9c2301de17d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2872c69c376e7695666f1cd54da27922dc708249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\a11ed36d90ca94bbbef3c8b533977c1b4d6764cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_a75689937bfc36aa8763f9dad70749b6df0f8add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\448f79bf4dfc689733c2cc52dcc5d25dd8bdeb7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_3acca1cd8fe963b4eaf5b5576f3f783d25c3e6e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\2ae180d28221bdab1889d65fe5ca0d52bb4f9ed5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8c5a80c80167d5e6bfe84309f0787a769fd23f61">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_9053308be62f1885394e229d850934354d1c0b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\95903784f5cc253099a4c9658f26e56af4122a32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd3872a778741ba6ef9d5452e122a54d16b0564f">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_936d661e836b3a2a14ed8a3114db49d3a1909ff1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\8942a5c60b47bb3994218a1978d03a607a2b5d68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_bf1153a822ebcdd734ce8cc40acef7320f4a68b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\08b433a9adf7d2b368d0565b10bf61a9da88301b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="912812cca1fdace3ef9ba9c0a7081db4155767d5">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_447f98ad832d8d8177c21d8ed81c494dacff3df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\958fc94888d0879a6b1c24471aea3f5b3932a625\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_6bd0b13a5804d23711eaf11bfec7836e846b92b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\cc272821ae49ef331b5083f237fecb2ad11cc828\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_e2c00c7003c9e5bda648f344b59fb3adca159634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\f3328de85de577217c802ebae24be89853183e2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_afa2b51e4e7ccddfc795dd1f83c56864e37131fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\cd9a4d61e9bc5a9b3f6cddd1c03051b3f50df3bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_1fa52db98a6ed34f53a91e79185a90fc2552c89a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.2\20f6463eb19ac61960c5d91a094c2f4f0727dc2e\okhttp-2.7.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="20f6463eb19ac61960c5d91a094c2f4f0727dc2e">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\okhttp-2.7.2_4bb5462a5a958836f64b0822f6688cb99010891d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\cf586df230b7486a7156d78868827707961d7ec9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_586de358f01658a681f1dbeba77969f402445324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\63c6f7c22a94a9aff4b3a911fffe034822578560\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_062b5aa164a18084fedc60dfdf64c55af107a7be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\d5f41a1871ae37cd6414f0adbe22629e04975386\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_2e43feb72f762fd670312dae4b772ccb6eb1b148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\d6b5299ac5920b2fee6f503b2ac56e5e8a69cb1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_47cdcc9447ac4258afe3142cc5183adf60143d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\166a095af131685c5bde43884640ad1835665b78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_ffc4cddcfcebca49b5ce3d1725acbbb2fabcd360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\bbe45eb51bb5c6bf083ddb751fc8e1a156f28be7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_691c2947cf06eb9c1019c54edac18e60e171a1e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\02d0a88e6cae5dbdb249a217e0ab368d96880a57\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_b2376ffc999c076df2546b2898e621b348b59c15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\8e4fca191f2651a2a838f6972581865a40786945\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_bd99b7ef4cb7d2507389cc088f9cb629718f2917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\6bacc92c04fee76c7b373bc8bd9faa150079e1ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_2a56d6e6e9f922f97ef9bd75c97c547d3eb1f15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\9ce2755fb8fef766b83ad112972acc3793df3d16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_f85692745be881fb6e669f54c7e95985835e1ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\829bc8af81e6d4dddb3bd0733436e99423a7cf78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_b16c78a0cff5ada64876d866bd7a0ce69509ceee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\b5b6b7f588be10dafb4dc7e6e5c65d0761f3e7cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_6c6f1606c14bfaa42450e841a6cfa7caed75bc1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\931faf93c2581c8ac2cb3b4df7ea3220cbf45758\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_3051f414ee63166058bb64e959bd67b902440ad7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\ecda4fcf31c19217d6d590d64969b090e40bee93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e7ca65463655d11456435e37fba9500c070d05e">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_5b892666c51aec0f4b1720b99ee3e60bf4629c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\0417f6d2b084a2603c909e995f320745eac4c3d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bb5e99e8a8b94d66179ccbf5f2fbe41ba084fbe9">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_63a1cb373ef57dc4b52babaf4bcbfb411ba0934b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\cb9c868fc76eea46398662989c3db50765e2d473\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9001cb8dbd0c0f46e73929f0b0667c00c2835880">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_81e95e871ba651d582e1e3cb0cdb87dc1a01ac65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\e46fa3ef6903cc80e7172e5182533ef712c551e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_824341863ce6306192710cb53368d447f46e0431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\ef3de4c84f18510c93685de9caa4bd006252f258\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_ad762484d7711ea84f63cf76020436cd46154abd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\16fb12076114f9d7f6326c48f9f51eeb9be2aa98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e59236507fc1c595cd784ce9aa81c2c04888fd40">
+        <dex dex="C:\Users\kadir\dirproto3\platforms\android\app\build\intermediates\pre-dexed\F0F1F2\debug\classes_06a9f529aba52908c43bd920f43722bc41ba08e1.jar" />
+    </item>
+
+</items>

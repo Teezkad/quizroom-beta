@@ -1,0 +1,76 @@
+{
+  "_args": [
+    [
+      "nativescript-plugin-firebase-common@0.10.11",
+      "C:\\Users\\kadir\\dirproto3"
+    ]
+  ],
+  "_from": "nativescript-plugin-firebase-common@0.10.11",
+  "_id": "nativescript-plugin-firebase-common@0.10.11",
+  "_inBundle": false,
+  "_integrity": "sha1-YSldY3M5j14fgeD6GmF5heY+400=",
+  "_location": "/nativescript-plugin-firebase-common",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nativescript-plugin-firebase-common@0.10.11",
+    "name": "nativescript-plugin-firebase-common",
+    "escapedName": "nativescript-plugin-firebase-common",
+    "rawSpec": "0.10.11",
+    "saveSpec": null,
+    "fetchSpec": "0.10.11"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-plugin-firebase-common/-/nativescript-plugin-firebase-common-0.10.11.tgz",
+  "_spec": "0.10.11",
+  "_where": "C:\\Users\\kadir\\dirproto3",
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/KallynGowdy/nativescript-plugin-firebase/issues"
+  },
+  "contributors": [
+    {
+      "name": "Eddy Verbruggen",
+      "email": "eddyverbruggen@gmail.com"
+    },
+    {
+      "name": "Kallyn Gowdy",
+      "email": "kallyngowdy@gmail.com"
+    }
+  ],
+  "description": "Fire. Base. Firebase!",
+  "devDependencies": {
+    "tns-core-modules": "~1.5.2",
+    "typescript": "^1.7.5"
+  },
+  "homepage": "https://github.com/KallynGowdy/nativescript-plugin-firebase",
+  "keywords": [
+    "NativeScript",
+    "Firebase",
+    "Database"
+  ],
+  "license": "MIT",
+  "main": "firebase.js",
+  "name": "nativescript-plugin-firebase-common",
+  "nativescript": {
+    "platforms": {
+      "android": "1.3.0",
+      "ios": "1.3.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KallynGowdy/nativescript-plugin-firebase.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
+  "version": "0.10.11"
+}

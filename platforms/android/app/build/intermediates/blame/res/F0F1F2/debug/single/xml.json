@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\kadir\\dirproto3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\xml\\chart_palettes_default_light.xml",
+        "source": "C:\\Users\\kadir\\.android\\build-cache\\9a1f53c4a34d30398cab702e913d602ade43571c\\output\\res\\xml\\chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\kadir\\dirproto3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\xml\\chart_palettes_default_dark.xml",
+        "source": "C:\\Users\\kadir\\.android\\build-cache\\9a1f53c4a34d30398cab702e913d602ade43571c\\output\\res\\xml\\chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\kadir\\dirproto3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\xml\\chart_palettes_dark_selected.xml",
+        "source": "C:\\Users\\kadir\\.android\\build-cache\\9a1f53c4a34d30398cab702e913d602ade43571c\\output\\res\\xml\\chart_palettes_dark_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\kadir\\dirproto3\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0F1F2\\debug\\xml\\chart_palettes_light_selected.xml",
+        "source": "C:\\Users\\kadir\\.android\\build-cache\\9a1f53c4a34d30398cab702e913d602ade43571c\\output\\res\\xml\\chart_palettes_light_selected.xml"
+    }
+]
