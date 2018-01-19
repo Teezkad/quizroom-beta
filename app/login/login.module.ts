@@ -1,7 +1,7 @@
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { NativeScriptFormsModule } from "nativescript-angular/forms";
 import { NgModule } from "@angular/core";
-
+import {LoginViewModel} from "./login-view-model";
 import { loginRouting } from "./login.routes";
 import { LoginComponent } from "./login.component";
 
@@ -9,7 +9,8 @@ import { LoginComponent } from "./login.component";
   imports: [
     NativeScriptModule,
     NativeScriptFormsModule,
-    loginRouting
+    loginRouting,
+    LoginViewModel
   ],
   declarations: [
     LoginComponent

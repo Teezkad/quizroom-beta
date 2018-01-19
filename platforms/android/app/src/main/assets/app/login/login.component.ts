@@ -11,6 +11,7 @@ import { NavigatedData, Page } from "ui/page";
 import {Router} from '@angular/router';
 import { LoginViewModel } from "./login-view-model";
 import { OnInit } from '@angular/core/src/metadata/lifecycle_hooks';
+import observableModule = require("data/observable");
 
 export function onDrawerButtonTap(args: EventData) {
   const sideDrawer = <RadSideDrawer>topmost().getViewById("sideDrawer");
@@ -43,9 +44,9 @@ export function register(){
 @Component({
   moduleId: module.id,
   selector: 'gf-login',
-  templateUrl: 'login.xml'
+  templateUrl: 'login.component.xml'
 })
-export class LoginComponent {
+export class LoginComponent extends observableModule.Observable{
   user: User;
   isLoggingIn = true;
   isAuthenticating = false;
@@ -54,8 +55,9 @@ export class LoginComponent {
   constructor(private firebaseService: FirebaseService,
               private routerExtensions: RouterExtensions
             ) {
+              super();
               this.user = new User();
-              this.user.email = "deezz";
+              this.user.email = "";
               this.user.password = "";
             }
  
@@ -68,7 +70,7 @@ export class LoginComponent {
     }
  }*/
 
-  login() {
+ public login() {
     this.isAuthenticating = true;
      this.firebaseService.login(this.user)
       .then(() => {

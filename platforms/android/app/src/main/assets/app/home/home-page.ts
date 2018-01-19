@@ -34,6 +34,11 @@ export function onDrawerButtonTap(args: EventData) {
     sideDrawer.showDrawer();
 }
 
-export function openregister(args: EventData){
-   
+export function createRoom(args: EventData){
+    topmost().navigate({
+        moduleName: "Room/Room.component",
+        transition: {
+            name: "fade"
+        }
+    });
 }

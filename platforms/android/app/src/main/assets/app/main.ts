@@ -5,6 +5,8 @@ import { AppModule } from "./app.module";
 import { BackendService } from "./services/backend.service";
 
 import firebase = require("nativescript-plugin-firebase");
+import * as app from "application";
+import "./bundle-config";
 
 firebase.init({
   //persist should be set to false as otherwise numbers aren't returned during livesync
@@ -14,17 +16,17 @@ firebase.init({
     console.log(JSON.stringify(data))
     if (data.loggedIn) {
       BackendService.token = data.user.uid;
-    }
-    else {
+    } else {
       BackendService.token = "";
     }
   }
 }).then(
-  function (instance) {
+  function(instance) {
     console.log("firebase.init done");
   },
-  function (error) {
+  function(error) {
     console.log("firebase.init error: " + error);
   }
   );
-platformNativeScriptDynamic().bootstrapModule(AppModule);
+
+app.start({ moduleName: "home/home-page" });

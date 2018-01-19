@@ -42,6 +42,13 @@ export class MyDrawerViewModel extends Observable {
                 route: "login/login.component",
                 icon: "\uf013",
                 isSelected: selectedPage === "Login"
+            },
+            {
+                title: "Class",
+                name: "class",
+                route: "Room/Room.component",
+                icon: "\uf013",
+                isSelected: selectedPage === "Room"
             }
         ];
     }
