@@ -9,7 +9,7 @@ import firebase = require("nativescript-plugin-firebase");
 firebase.init({
   //persist should be set to false as otherwise numbers aren't returned during livesync
   persist: false,
-  storageBucket: 'firstproject-353d1.appspot.com',
+  storageBucket: 'gs://firstproject-353d1.appspot.com',
   onAuthStateChanged: (data: any) => {
     console.log(JSON.stringify(data))
     if (data.loggedIn) {

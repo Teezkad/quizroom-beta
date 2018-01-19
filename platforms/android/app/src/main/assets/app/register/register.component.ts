@@ -23,10 +23,10 @@ import { RouterExtensions } from 'nativescript-angular/router/router-extensions'
         this.user = new User();
         this.user.email = "";
         this.user.password = "";
-        this.user.firstName = "";
-        this.user.lastName = "";
-        this.user.instructor= false;
-        this.user.professor = false;
+        // this.user.firstName = "";
+        // this.user.lastName = "";
+        // this.user.instructor= false;
+        // this.user.professor = false;
       }
 
 

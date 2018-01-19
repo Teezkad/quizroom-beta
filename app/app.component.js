@@ -1,19 +1,16 @@
 "use strict";
-/*
-In NativeScript, the app.ts file is the entry point to your application.
-You can use this file to perform app-level initialization, but the primary
-purpose of the file is to pass control to the app’s first module.
-
-import * as app from "application";
-import "./bundle-config";
-
-app.start({ moduleName: "home/home-page" });
-
-Do not place any code after the application has been started as it will not
-be executed on iOS.
-*/
 Object.defineProperty(exports, "__esModule", { value: true });
-var application = require("application");
-// Start the application. Don't place any code after this line.
-application.start({ moduleName: "login.component" });
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNvbXBvbmVudC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImFwcC5jb21wb25lbnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IjtBQUFBOzs7Ozs7Ozs7Ozs7RUFZRTs7QUFFRix5Q0FBNEM7QUFDNUMsK0RBQStEO0FBQy9ELFdBQVcsQ0FBQyxLQUFLLENBQUMsRUFBRSxVQUFVLEVBQUUsaUJBQWlCLEVBQUUsQ0FBQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbkluIE5hdGl2ZVNjcmlwdCwgdGhlIGFwcC50cyBmaWxlIGlzIHRoZSBlbnRyeSBwb2ludCB0byB5b3VyIGFwcGxpY2F0aW9uLlxuWW91IGNhbiB1c2UgdGhpcyBmaWxlIHRvIHBlcmZvcm0gYXBwLWxldmVsIGluaXRpYWxpemF0aW9uLCBidXQgdGhlIHByaW1hcnlcbnB1cnBvc2Ugb2YgdGhlIGZpbGUgaXMgdG8gcGFzcyBjb250cm9sIHRvIHRoZSBhcHDigJlzIGZpcnN0IG1vZHVsZS5cblxuaW1wb3J0ICogYXMgYXBwIGZyb20gXCJhcHBsaWNhdGlvblwiO1xuaW1wb3J0IFwiLi9idW5kbGUtY29uZmlnXCI7XG5cbmFwcC5zdGFydCh7IG1vZHVsZU5hbWU6IFwiaG9tZS9ob21lLXBhZ2VcIiB9KTtcblxuRG8gbm90IHBsYWNlIGFueSBjb2RlIGFmdGVyIHRoZSBhcHBsaWNhdGlvbiBoYXMgYmVlbiBzdGFydGVkIGFzIGl0IHdpbGwgbm90XG5iZSBleGVjdXRlZCBvbiBpT1MuXG4qL1xuXG5pbXBvcnQgYXBwbGljYXRpb24gPSByZXF1aXJlKFwiYXBwbGljYXRpb25cIik7XG4vLyBTdGFydCB0aGUgYXBwbGljYXRpb24uIERvbid0IHBsYWNlIGFueSBjb2RlIGFmdGVyIHRoaXMgbGluZS5cbmFwcGxpY2F0aW9uLnN0YXJ0KHsgbW9kdWxlTmFtZTogXCJsb2dpbi5jb21wb25lbnRcIiB9KTsiXX0=
+var core_1 = require("@angular/core");
+var AppComponent = /** @class */ (function () {
+    function AppComponent() {
+    }
+    AppComponent = __decorate([
+        core_1.Component({
+            selector: "gf-main",
+            template: "<page-router-outlet></page-router-outlet>"
+        })
+    ], AppComponent);
+    return AppComponent;
+}());
+exports.AppComponent = AppComponent;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXBwLmNvbXBvbmVudC5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImFwcC5jb21wb25lbnQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFBQSxzQ0FBd0M7QUFNeEM7SUFBQTtJQUEyQixDQUFDO0lBQWYsWUFBWTtRQUp4QixnQkFBUyxDQUFDO1lBQ1QsUUFBUSxFQUFFLFNBQVM7WUFDbkIsUUFBUSxFQUFFLDJDQUEyQztTQUN0RCxDQUFDO09BQ1csWUFBWSxDQUFHO0lBQUQsbUJBQUM7Q0FBQSxBQUE1QixJQUE0QjtBQUFmLG9DQUFZIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHtDb21wb25lbnR9IGZyb20gXCJAYW5ndWxhci9jb3JlXCI7XG5cbkBDb21wb25lbnQoe1xuICBzZWxlY3RvcjogXCJnZi1tYWluXCIsXG4gIHRlbXBsYXRlOiBcIjxwYWdlLXJvdXRlci1vdXRsZXQ+PC9wYWdlLXJvdXRlci1vdXRsZXQ+XCJcbn0pXG5leHBvcnQgY2xhc3MgQXBwQ29tcG9uZW50IHt9Il19

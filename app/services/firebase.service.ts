@@ -11,7 +11,6 @@ import 'rxjs/add/operator/share';
 export class FirebaseService {
   constructor(
     private ngZone: NgZone,
-    private utils: UtilsService
   ){}
     
   items: BehaviorSubject<Array<Classroom>> = new BehaviorSubject([]);

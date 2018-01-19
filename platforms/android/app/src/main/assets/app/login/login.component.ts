@@ -55,7 +55,7 @@ export class LoginComponent {
               private routerExtensions: RouterExtensions
             ) {
               this.user = new User();
-              this.user.email = "";
+              this.user.email = "deezz";
               this.user.password = "";
             }
  
@@ -73,7 +73,12 @@ export class LoginComponent {
      this.firebaseService.login(this.user)
       .then(() => {
         this.isAuthenticating = false;
-        this.routerExtensions.navigate(["/"], { clearHistory: true } );
+        topmost().navigate({
+          moduleName: "dashboard",
+          transition: {
+              name: "fade"
+          }
+      })
 
       })
       .catch((message:any) => {

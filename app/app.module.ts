@@ -3,8 +3,8 @@ import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 import { NativeScriptHttpModule } from "nativescript-angular/http";
 import { NativeScriptRouterModule } from "nativescript-angular/router";
 
-import { authProviders /*appRoutes */} from "./app.routes";
-//import { AppComponent } from "./app.component";
+import { authProviders, appRoutes } from "./app.routes";
+import { AppComponent } from "./app.component";
 import { BackendService, FirebaseService, UtilsService } from "./services";
 
 import { LoginModule } from "./login/login.module";
@@ -21,12 +21,12 @@ import { LoginModule } from "./login/login.module";
     NativeScriptModule,
     NativeScriptHttpModule,
     NativeScriptRouterModule,
-    //NativeScriptRouterModule.forRoot(appRoutes),
+    NativeScriptRouterModule.forRoot(appRoutes),
     LoginModule  
-  ]/*,
+  ],
   declarations: [
       AppComponent,
   ],
-  bootstrap: [AppComponent]*/
+  bootstrap: [AppComponent]
 })
 export class AppModule { }
