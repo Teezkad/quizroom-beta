@@ -91,5 +91,14 @@
         sha1="21ece50b870a8bea45608a6748ad60112d5d9ed1">
         <dex dex="C:\Users\kadir\dirproto5\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_9157c7e5fdfb73e6fd2055fb00d373f0d356981a.jar" />
     </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\2d5f09877a7e33baf042bbb3cbd32bc1141081ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
+        <dex dex="C:\Users\kadir\dirproto5\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_54a043d8359560e514987babff070590799c9e6b.jar" />
+    </item>
 
 </items>

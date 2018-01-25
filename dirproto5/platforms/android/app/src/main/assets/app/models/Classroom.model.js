@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var Classroom = /** @class */ (function () {
+    function Classroom(name, professor, institution, members, classCode, year) {
+        this.name = name;
+        this.professor = professor;
+        this.institution = institution;
+        this.members = null;
+        this.classCode = classCode;
+        this.year = year;
+    }
+    return Classroom;
+}());
+exports.Classroom = Classroom;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiQ2xhc3Nyb29tLm1vZGVsLmpzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiQ2xhc3Nyb29tLm1vZGVsLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQUE7SUFRSSxtQkFBWSxJQUFJLEVBQUUsU0FBUyxFQUFFLFdBQVcsRUFBRSxPQUFPLEVBQUUsU0FBUyxFQUFFLElBQUk7UUFDOUQsSUFBSSxDQUFDLElBQUksR0FBRyxJQUFJLENBQUM7UUFDakIsSUFBSSxDQUFDLFNBQVMsR0FBRyxTQUFTLENBQUM7UUFDM0IsSUFBSSxDQUFDLFdBQVcsR0FBRyxXQUFXLENBQUM7UUFDL0IsSUFBSSxDQUFDLE9BQU8sR0FBRyxJQUFJLENBQUM7UUFDcEIsSUFBSSxDQUFDLFNBQVMsR0FBRyxTQUFTLENBQUM7UUFDM0IsSUFBSSxDQUFDLElBQUksR0FBRyxJQUFJLENBQUM7SUFDckIsQ0FBQztJQUNMLGdCQUFDO0FBQUQsQ0FBQyxBQWhCRCxJQWdCQztBQWhCWSw4QkFBUyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjbGFzcyBDbGFzc3Jvb217XHJcbiAgICBcclxuICAgIHB1YmxpYyBuYW1lOiBzdHJpbmc7XHJcbiAgICBwdWJsaWMgcHJvZmVzc29yOiBzdHJpbmc7XHJcbiAgICBwdWJsaWMgaW5zdGl0dXRpb246IHN0cmluZztcclxuICAgIHB1YmxpYyBtZW1iZXJzOiB7U3R1ZGVudG51bTogYm9vbGVhbjt9O1xyXG4gICAgcHVibGljIGNsYXNzQ29kZTogc3RyaW5nO1xyXG4gICAgcHVibGljIHllYXI6IHN0cmluZztcclxuICAgIGNvbnN0cnVjdG9yKG5hbWUsIHByb2Zlc3NvciwgaW5zdGl0dXRpb24sIG1lbWJlcnMsIGNsYXNzQ29kZSwgeWVhciApe1xyXG4gICAgICAgIHRoaXMubmFtZSA9IG5hbWU7XHJcbiAgICAgICAgdGhpcy5wcm9mZXNzb3IgPSBwcm9mZXNzb3I7XHJcbiAgICAgICAgdGhpcy5pbnN0aXR1dGlvbiA9IGluc3RpdHV0aW9uO1xyXG4gICAgICAgIHRoaXMubWVtYmVycyA9IG51bGw7XHJcbiAgICAgICAgdGhpcy5jbGFzc0NvZGUgPSBjbGFzc0NvZGU7XHJcbiAgICAgICAgdGhpcy55ZWFyID0geWVhcjtcclxuICAgIH1cclxufSAiXX0=
