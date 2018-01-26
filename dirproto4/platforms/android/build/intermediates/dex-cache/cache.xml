@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\3eab4fad6dfb7cb1bdb3e5a342eb633022cc2e8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\kadir\dirproto4\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_ac837f3237c221baca43b49bd81fd12d51191c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\kadir\.android\build-cache\66d136d7858e9a235c2f9b937db0f991621c3c67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe66404378d7791a232cc3331811b2ce402f44c7">
+        <dex dex="C:\Users\kadir\dirproto4\platforms\android\app\build\intermediates\pre-dexed\F0F1\debug\classes_65bbd7652c151f815ffedb51829e82c6f00ea3db.jar" />
+    </item>
+
+</items>
